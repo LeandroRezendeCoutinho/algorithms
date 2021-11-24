@@ -1,4 +1,4 @@
-# Code challenges
+# Algorithms and data structures
 
 ### Pattern search algorithms
 - Naive
